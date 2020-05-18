@@ -4,7 +4,7 @@ This is an image recognition library that can be used for mobile application tes
 This library has been extracted and refactored from the following project: 
 <https://github.com/bitbar/testdroid-samples/tree/master/image-recognition>
 
-As this README is currently rather simplistic, more information can be found from the original project's readme or from this blog post: <http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing>
+As this README is currently rather simplistic, more information can be found from the original project's readme or from this blog post: <https://bitbar.com/blog/how-to-use-image-recognition-for-mobile-app-and-game-testing/>
 
 # Prerequisites
 ## General
